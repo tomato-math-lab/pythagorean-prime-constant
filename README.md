@@ -1,4 +1,4 @@
-## 🍅 The Tomato-Math-Lab Theorem: The Dual-Prime Pythagorean Conjecture
+## 🍅 The Tomato-Math-Lab: The Dual-Prime Pythagorean Conjecture
 
 ### 1. The Structure
 
